@@ -29,11 +29,14 @@ You can download and access the data directly from my repository. You can use th
 https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv
 
 ### 4. The main goals
+
+
 ### 5. Results
+
 1. Regarding smoking status, smokers typically leave tips ranging from $2 to $4, whereas non-smokers tend to tip more evenly between $1 and $3.5. Both groups rarely tip more than $6.
 2. In terms of gender, it is evident that males leave tips almost twice as much as females.
 3. With regards to the day of the week, customers primarily tip on weekends, with the tip amount being nearly 10 times higher than on weekdays.
-
+4. Regarding tipping time, dinner tips are approximately three times higher than lunch tips. During dinner, customers typically tip between $1 and $5, with $3 being the most common amount. Notably, at lunch, tips often range from $2 to $2.5, accounting for 35% of all lunch tips.
 
 
 
