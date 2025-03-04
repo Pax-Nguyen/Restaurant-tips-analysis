@@ -1,4 +1,4 @@
-# Restaurant-tips-analysis
+# Restaurant tips analysis
 ![download](https://github.com/user-attachments/assets/d5992dab-ba62-4ee6-8fde-8e685e8c89b1)
 
 ## Project description
